@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
   rpm policy [[1](http://ftp.rpm.org/max-rpm/ch-rpm-file-format.html)]).
   For example, dashes in RPM version (like `1.2.3-0`) is no longer supported.
 - Bump `Go` requirement to `1.18`.
+- Replace vfsgen with embed for ``cartridge create`` template.
 
 ## [2.11.0] - 2022-01-26
 
